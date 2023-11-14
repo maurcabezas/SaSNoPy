@@ -76,8 +76,23 @@ SASNoPy is versatile for normalizing spectra with specific criteria. However, ad
   
 ## License
 
-This project is licensed under the [Your License].
+This project is licensed under the ![MIT License](LICENSE).
+
+## Cite
+
+Please consider citing if you use SASNoPy in a publication, thesis, or project. You can use the following BibTeX entry:
+
+```bibtex
+@software{cabezas2023sasnopy,
+  author = {Mauricio Cabezas},
+  title = {SASNoPy - Semi-Automatic Spectral Normalization in Python},
+  year = {2023},
+  url = {https://github.com/maurcabezas/SASNoPy}
+}
+```
+
 
 ## Acknowledgments
 
-- Main idea of 'median level' from [Companion Simulations](https://notebook.community/jason-neal/companion_simulations/Notebooks/Spectrum_Normalizations), No name, no source.
+- [Companion Simulations](https://notebook.community/jason-neal/companion_simulations/Notebooks/Spectrum_Normalizations): The 'median' concept and ideas used in this code were inspired by the work carried out in the Companion Simulations project. While no specific names or sources were provided, the project served as a valuable reference for spectral normalizations.
+  
