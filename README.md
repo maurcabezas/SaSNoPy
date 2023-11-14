@@ -4,7 +4,7 @@
 
 SaSNoPy - Semiautomatic Spectral Normalization code with Python
 
-A Python tool designed for the semi-automatic normalization of astronomical spectra. It is particularly useful for handling spectral data from various sources and normalizing them for further analysis, including long wavelength range spectra and echelle orders.
+SaSNoPy is a Python tool designed for the semi-automatic normalization of astronomical spectra. It proves particularly useful for handling spectral data from various sources, automatically calculating the median of the highest defined points (top-level) in local spectral regions (splits). This tool facilitates the normalization process, making it convenient for further analysis, especially when dealing with long-wavelength range spectra and echelle orders.
 
 ![SASNoPy on pyQT window](docs/sasnopy.png)
 
