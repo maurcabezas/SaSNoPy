@@ -1,4 +1,4 @@
-# SASNoPy
+# SaSNoPy
 
 ## Description
 
