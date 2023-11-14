@@ -27,10 +27,9 @@ A Python tool designed for the semi-automatic normalization of astronomical spec
 ## How to Use
 
 1. Install the required libraries:
-   Move where is the file setup.py
 
     ```bash
-    pip install .
+    pip install -r docs/requirements.txt .
     ```
 
 3. Run the program:
