@@ -79,4 +79,4 @@ This project is licensed under the [Your License].
 
 ## Acknowledgments
 
-- [Companion Simulations](https://notebook.community/jason-neal/companion_simulations/Notebooks/Spectrum_Normalizations) (No name, no source)
+- Main idea of 'median level' from [Companion Simulations](https://notebook.community/jason-neal/companion_simulations/Notebooks/Spectrum_Normalizations), No name, no source.
