@@ -29,7 +29,7 @@ A Python tool designed for the semi-automatic normalization of astronomical spec
 1. Install the required libraries:
 
     ```bash
-    pip install -r docs/requirement.txt .
+    pip install -r docs/requirement.txt
     ```
 
 3. Run the program:
