@@ -23,6 +23,7 @@ SaSNoPy is a Python tool designed for the semi-automatic normalization of astron
 - **Spectral Division**: Divide a given spectrum into smaller regions based on specified criteria (Currently is included but still is better to improve).
 - **Temporary Files**: Save divided spectral regions as temporary files for individual processing.
 - **Output header**: Add the option to save on fit/fits with header
+- **Automatize the top level**: Currently, SaSNoPy employs a 'high-rejection' method with a fixed top-level parameter (top=50). The ongoing development aims to enhance this by implementing a sophisticated algorithm for automatic determination of the top level. This improvement will enable the tool to adapt dynamically to the characteristics of the spectral data, providing a more robust and user-friendly experience.
 
 ## How to Use
 
